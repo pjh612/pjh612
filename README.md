@@ -1,5 +1,5 @@
-노력하는 거북이
-Velog : https://velog.io/@pjh612
+노력하는 거북이 <br>
+Velog : https://velog.io/@pjh612 <br>
 BaekJoon : https://www.acmicpc.net/user/pjh612
 <!---
 pjh612/pjh612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
