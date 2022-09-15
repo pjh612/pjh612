@@ -1,4 +1,4 @@
-노력하는 거북이 <br>
+끝까지 가는 거북이 <br>
 Velog : https://velog.io/@pjh612 <br>
 BaekJoon : https://www.acmicpc.net/user/pjh612
 <!---
